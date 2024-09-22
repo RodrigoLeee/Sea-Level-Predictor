@@ -1,2 +1,1 @@
-# Sea-Level-Predictor
- Predicting sea level in the year 2050
+This is a resolution for the Data Analysis With Python Curriculum, from freecodecamp.
